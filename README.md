@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SOC-Lab
 =======
 # SOC Lab
@@ -24,4 +23,3 @@ Servidor de monitorizacion para clientes de Linux/Windows.
 ## Metodo de instalacion de Wazuh
 Modo All-in-One: Manager + Indexer + Dashboard en un unico servidor.
 
->>>>>>> e8dfb5e (Commit inicial)
