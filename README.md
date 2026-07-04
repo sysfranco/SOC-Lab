@@ -1,5 +1,3 @@
-# SOC-Lab
-=======
 # SOC Lab
 
 Servidor de monitorizacion para clientes de Linux/Windows.
