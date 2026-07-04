@@ -1,0 +1,1 @@
+# Creas una agente desde el dashboard de wazuh
