@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SOC-Lab
 Laboratorio SOC virtualizado para practicar detección, análisis, gestión de casos y automatización usando **Wazuh**, **TheHive** y **Shuffle**.
 
@@ -8,7 +7,6 @@ Laboratorio SOC virtualizado para practicar detección, análisis, gestión de c
 
 Crear un entorno simulado de SOC que permita:
 
-<<<<<<< HEAD
 =======
 - Instalar y validar un SIEM/XDR con Wazuh.
 - Conectar endpoints mediante Wazuh Agent.
@@ -88,4 +86,4 @@ Las gráficas del informe final deben generarse desde datos exportados de Wazuh 
 - Microsoft Sysmon: https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
 
 Fuentes consultadas y enlaces de referencia: [`docs/99-fuentes-oficiales.md`](docs/99-fuentes-oficiales.md)
->>>>>>> aa80b65 (Actualizacion)
+
