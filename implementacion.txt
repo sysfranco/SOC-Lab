@@ -1,0 +1,16 @@
+Plan de Implementacion
+
+Para SIEM y EDR: Wazuh y Wazuh(agent) respectivamente
+Para ticketing TheHive
+Para playbooks y automatizacion: Shuffle
+
+Objetivo: Crear un entorno simulado de SOC.
+
+1. Crear las maquinas virtuales (1 servidor y 1 cliente)
+2. Crear la base basica del entorno con todo instalado y listo para usar.
+3. Provocar senales o inicidentes controlados de prueba para utilizar el SIEM. (Fase 1)
+4. Relizar un informe de los hallazgos.
+5. Crear playbooks automatizados
+6. Crear aun mas pruebas de simulacion del SIEM. (Fase 2)
+7. Hacer usos de los playbooks.
+8. Crear un informe detallado y graficas simuladas.

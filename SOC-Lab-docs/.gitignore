@@ -1,0 +1,24 @@
+# Secrets and local config
+.env
+*.key
+*.pem
+*.crt
+*.p12
+*wazuh-passwords*.txt
+wazuh-install-files.tar
+
+# Evidence that may contain sensitive data
+/evidence/private/
+/reports/private/
+/data/private/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
